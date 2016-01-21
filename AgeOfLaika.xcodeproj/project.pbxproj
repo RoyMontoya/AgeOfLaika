@@ -13,6 +13,7 @@
 		05DCBB951C4E00730038C7A8 /* AgeOfLaika.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 05DCBB931C4E00730038C7A8 /* AgeOfLaika.xcdatamodeld */; };
 		05DCBB971C4E00730038C7A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05DCBB961C4E00730038C7A8 /* Assets.xcassets */; };
 		05DCBB9A1C4E00730038C7A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05DCBB981C4E00730038C7A8 /* LaunchScreen.storyboard */; };
+		05DCBBA21C4E008F0038C7A8 /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05DCBBA11C4E008F0038C7A8 /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		05DCBB961C4E00730038C7A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05DCBB991C4E00730038C7A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05DCBB9B1C4E00730038C7A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05DCBBA11C4E008F0038C7A8 /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				05DCBB8E1C4E00730038C7A8 /* ViewController.swift */,
 				05DCBB901C4E00730038C7A8 /* Main.storyboard */,
 				05DCBB961C4E00730038C7A8 /* Assets.xcassets */,
+				05DCBBA11C4E008F0038C7A8 /* AgeOfLaika.jpg */,
 				05DCBB981C4E00730038C7A8 /* LaunchScreen.storyboard */,
 				05DCBB9B1C4E00730038C7A8 /* Info.plist */,
 				05DCBB931C4E00730038C7A8 /* AgeOfLaika.xcdatamodeld */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				05DCBB9A1C4E00730038C7A8 /* LaunchScreen.storyboard in Resources */,
+				05DCBBA21C4E008F0038C7A8 /* AgeOfLaika.jpg in Resources */,
 				05DCBB971C4E00730038C7A8 /* Assets.xcassets in Resources */,
 				05DCBB921C4E00730038C7A8 /* Main.storyboard in Resources */,
 			);
